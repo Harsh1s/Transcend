@@ -50,11 +50,11 @@ Arguements look something like this.
 <Transpiler executable> <Source Code File> <Compile option>
 ```
 
->Transpiler executable: The executable that cmake throws in bld folder, tsc.
+> Transpiler executable: The executable that cmake throws in bld folder, tsc.
 >
->Source Code File: The souce code file with the file extension of .ts written according to Transcend syntax.
+> Source Code File: The souce code file with the file extension of .ts written according to Transcend syntax.
 >
->Compile option: Use arguement c to get a compiled executable and nc to just transpile and get C++ source code.
+> Compile option: Use arguement c to get a compiled executable and nc to just transpile and get C++ source code.
 
 ### Terminal
 
@@ -129,6 +129,7 @@ include -> io
 - Harsh Raj
 - Made in [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - Contact: harsh.raj.cd.ece21@itbhu.ac.in
+-
 
 ## License
 
